@@ -7,7 +7,7 @@ const exprience =[{
     position:"Backend Operator",
     link:"https://trendypaper.com",
     date:{
-        start:"15 June 20023",
+        start:"15 June 2023",
         end:"30 April 2024",
     },
     points :["Efficiently list and describe new products on the website.", "Manage end-to-end order processing and fulfillment.","Collaborate cross-functionally to optimize backend operations."]
@@ -16,7 +16,7 @@ const exprience =[{
 position:"CCE",
 link:"https://www.conneqtcorp.com/",
 date:{
-    start:"11 June 20024",
+    start:"11 June 2024",
     end:"Present",
 },
 points :["Customer Support & Issue Resolution.", "Sales & Upselling.","Efficient Problem Solving & Communication."]
