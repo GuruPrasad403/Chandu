@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import img from '../assets/Hero.jpeg';
-import Styles from './about.module.css';
+import Styles from './About.module.css';
 import ReactPNG from '../assets/Skills/React.png';
 import NodePNG from '../assets/Skills/Node.png';
 import TailWind from '../assets/Skills/Tailwind.png';
