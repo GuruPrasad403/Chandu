@@ -24,7 +24,7 @@ function Contact() {
     ];
 
     return (
-        < div id="Contact" className=' pl-[15px] sm:pr-[100px] sm:pl-[250px] flex flex-col justify-around sm:gap-20 sm:my-48 w-[98vw] h-[130vh] sm:h-[80vh]'>
+        < div id="Contact" className=' pl-[15px] sm:pr-[100px] sm:pl-[250px] flex flex-col justify-around sm:gap-20 sm:my-48 w-[98vw] h-[160vh] sm:h-[80vh]'>
          <div className='flex flex-col   items-start  sm:py-2'>
                         <h2 className='sm:text-6xl text-4xl text-yellow-500 my-2'>
                             Get In

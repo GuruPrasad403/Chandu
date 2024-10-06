@@ -36,7 +36,7 @@ const info = [
 
 function About() {
     return (
-        <div id='About' className="grid place-content-center border-solid border-5 px-2 h-[180vh] sm:h-[120vh] transition-all duration-500 ease-in-out">
+        <div id='About' className="grid place-content-center border-solid border-5 px-2 h-[220vh] sm:h-[120vh] transition-all duration-500 ease-in-out">
             <div className="flex flex-col sm:flex-row sm:justify-center sm:items-center">
                 <div className='sm:my-2 my-3 sm:h-full'>
                     <img 

@@ -30,7 +30,7 @@ const services = [{
 function Projects() {
   const theme = useTheme();
   return (
-    <div id="Project" className='flex flex-col pl-[15px] sm:pl-[250px] sm:my-48 w-[98vw] h-[210vh] sm:h-[70vh]'>
+    <div id="Project" className='flex flex-col pl-[15px] sm:pl-[250px] sm:my-48 w-[98vw] h-[240vh] sm:h-[70vh]'>
       <div className="flex justify-start items-start">
         <div className='flex flex-col items-start sm:py-2'>
           <h2 className='sm:text-6xl text-4xl text-yellow-500 my-2'>

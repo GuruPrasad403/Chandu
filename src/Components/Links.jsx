@@ -7,7 +7,7 @@ function Links() {
   const currentYear = new Date().getFullYear(); // Get current year dynamically
 
   return (
-    <div className="flex flex-col gap-2 sm:flex-row justify-around items-center sm:h-[6vh] h-[10vh] w-full bg-[#212121] p-4">
+    <div className="flex flex-col gap-2 sm:flex-row justify-around items-center sm:h-[6vh] h-[12vh] w-full bg-[#212121] p-4">
       
      
       {/* Right: Social Media Links */}
