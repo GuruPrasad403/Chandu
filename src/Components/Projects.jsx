@@ -73,7 +73,7 @@ function MediaCard({ name, dis, wed, theme, link }) {
       },
       [theme.breakpoints.down('sm')]: {
         width: '90%',
-        height: '600px',
+        height: '570px',
         marginBottom: 5,
         marginRight: "10px"
       }
