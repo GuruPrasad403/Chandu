@@ -50,7 +50,7 @@ function Skill() {
     }, []);
 
     return (
-        <div id="Skills" className='pl-[15px] sm:pr-[100px] sm:pl-[250px] flex flex-col justify-around sm:gap-20 mt-52 sm:my-48 w-[98vw] h-[130vh] sm:h-[70vh]'>
+        <div id="Skills" className='pl-[15px] sm:pr-[100px] sm:pl-[250px] flex flex-col justify-around sm:gap-20 mt-52 sm:my-48 w-[98vw] h-[80vh] sm:h-[70vh]'>
             <div className="flex justify-between items-start"> 
                 <div className='flex flex-col items-start sm:py-2'>
                     <h2 className='sm:text-6xl text-4xl text-yellow-500 my-2'>
