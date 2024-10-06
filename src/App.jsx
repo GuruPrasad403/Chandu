@@ -12,7 +12,7 @@ import Skill from './Components/Skills'
 function App() {
 
   return (
-    <div className=' overflow-hidden grid grid-rows-[*] bg-zinc-900 '>
+    <div className=' overflow-x-hidden grid grid-rows-[*] bg-zinc-900 '>
   <HeroSection id="home" />
   <About id="About"/>
   <Services id="Services" />
