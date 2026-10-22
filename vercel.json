@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://guruprasad-g-one.vercel.app/",
+      "permanent": true
+    }
+  ]
+}
